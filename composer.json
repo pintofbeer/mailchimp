@@ -1,0 +1,8 @@
+{
+    "name": "pintofbeer/mailchimp",
+    "autoload": {
+        "psr-0" : {
+            "pintofbeer\\mailchimp" : "src"
+        }
+    }
+}
